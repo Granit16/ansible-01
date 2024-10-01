@@ -10,4 +10,4 @@
   local:
     hosts:
       localhost:
-        ansible_connection: ssh
+        ansible_connection: local
